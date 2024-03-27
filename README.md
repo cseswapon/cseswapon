@@ -2,7 +2,7 @@
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 - 🌱 I’m currently learning JavaScript 🤣
-- ⚡ Fun fact: I love to Explore the world 😍😍
+- ⚡ Fun fact: I love to Explore the world 😍😍 
 
 ### Connect with me:  
 
