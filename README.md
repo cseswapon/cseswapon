@@ -1,7 +1,7 @@
 ## Hi there, I'm  Swapon Saha 👋 
 
 ## I'm a 😍😍 JavaScript Lover 😍😍! 
-- 🌱 I’m currently learning JavaScript 🤣
+- 🌱 I’m currently learning JavaScript 🤣 
 - ⚡ Fun fact: I love to Explore the world 😍😍 
  
 ### Connect with me:  
