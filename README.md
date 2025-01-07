@@ -1,37 +1,85 @@
-## Hi there, I'm  Swapon Saha 👋 
- 
-## I'm a 😍😍 JavaScript Lover 😍😍! 
-- 🌱 I’m currently learning JavaScript 🤣 
-- ⚡ Fun fact: I love to Explore the world 😍😍 
- 
-### Connect with me: 
+# Hi there, I'm Swapon Saha 👋 
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/cseswapon) 
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/cseswapon)
-<span> <img src="https://komarev.com/ghpvc/?username=cseswapon&label=Profile%20views&color=0e75b6&style=flat" alt="cseswapon" /> </span>
+## 🧑‍💻 A Passionate Full-Stack Developer 🚀
 
-<br />
+Welcome to my GitHub profile! I am a highly motivated and enthusiastic **MERN stack developer** with a strong grasp of **TypeScript**, **Redux**, and backend technologies like **Node.js**, **Express.js**, and **Prisma**. I enjoy creating robust, scalable, and user-friendly web applications. Learning and growing in the field of software development is my ultimate passion. 🌟
 
-### Languages and Tools:
+---
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<br />
+### 🌟 About Me:
+- 🔭 Currently working on **MERN stack e-commerce projects**.
+- 🌱 Actively learning **Docker**, **TypeScript**, and advanced backend technologies.
+- 🧑‍🏫 Love contributing to **open-source projects** and collaborating with other developers.
+- 🌍 I’m a tech enthusiast who enjoys exploring cutting-edge technologies.
+- 🎯 Goal: To become a well-rounded **Software Architect**.
 
-<br />
+---
 
-<br />
-<br />
-<img width="550px" alt="Swapon Saha Github Stats"  src="https://github-readme-stats.vercel.app/api?username=cseswapon&show_icons=true"/>
+### 📞 Connect with me:
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=cseswapon&card_width=550)](https://github.com/cseswapon/cseswapon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cseswapon)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?logo=facebook&logoColor=white)](https://web.facebook.com/cseswapon)
+![Profile Views](https://komarev.com/ghpvc/?username=cseswapon&label=Profile%20Views&color=0e75b6&style=flat)
 
+---
 
-[twitter]: https://twitter.com/SwaponSaha3
-[linkedin]: https://www.linkedin.com/in/swapon-saha-0159091b8/
+### 🛠️ Languages & Tools:
+
+#### Frontend:
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" />
+</div>
+
+#### Backend:
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40" />
+</div>
+
+#### Databases:
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
+</div>
+
+#### Programming Languages:
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+</div>
+
+#### Tools:
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+</div>
+
+---
+
+### 📊 GitHub Stats:
+
+#### Overall Performance:
+![Swapon Saha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cseswapon&show_icons=true&theme=dark&count_private=true)
+
+#### Top Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cseswapon&layout=compact&theme=dark)
+
+---
+
+### 🌟 Additional Information:
+- 📝 **Portfolio:** [Check Out My Projects](https://github.com/cseswapon?tab=repositories)
+- 💡 **Fun Fact:** I believe in "Learning by Doing" and always strive to stay updated with the latest tech trends.
+- 🏆 I aim to contribute to open-source projects and help grow the developer community.
+
+---
+
+### 💬 Let's Collaborate!
+I’m open to collaborating on exciting projects, contributing to open-source, or even just discussing tech and coding! Feel free to reach out to me anytime. Let's build amazing things together! 🚀
