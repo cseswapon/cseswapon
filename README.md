@@ -45,7 +45,6 @@ Welcome to my GitHub profile! I am a highly motivated and enthusiastic **MERN st
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
 </div>
 
 #### Programming Languages:
