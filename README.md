@@ -66,8 +66,7 @@ Welcome to my GitHub profile! I am a highly motivated and enthusiastic **MERN st
 ### 📊 GitHub Stats:
 
 #### Overall Performance:
-![Swapon Saha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cseswapon&show_icons=true)
-![Swapon Saha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cseswapon&show_icons=true&theme=dark&count_private=true)
+![Swapon Saha's GitHub Stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=cseswapon&show_icons=true)
 
 #### Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cseswapon&layout=compact&theme=dark)
