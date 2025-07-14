@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I am a highly motivated and enthusiastic **MERN st
 
 ### 📞 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cseswapon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapan-kumar-saha-9936381b4/)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?logo=facebook&logoColor=white)](https://web.facebook.com/cseswapon)
 ![Profile Views](https://komarev.com/ghpvc/?username=cseswapon&label=Profile%20Views&color=0e75b6&style=flat)
 
