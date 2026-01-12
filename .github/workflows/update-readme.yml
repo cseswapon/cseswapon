@@ -2,7 +2,7 @@ name: Auto update README
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */1 * * *"
   workflow_dispatch:
 
 permissions:
@@ -16,12 +16,12 @@ jobs:
 
       - name: Update timestamp
         run: |
-          echo "Last updated: $(date)" >> README.md
+          sed -i "s|<!-- LAST_UPDATED -->|Last updated: $(date)|" README.md
 
       - name: Commit changes
         run: |
-          git config --global user.name "cseswapon"
-          git config --global user.email "cseswaponsaha@gmail.com"
+          git config --global user.name "${{ secrets.GIT_USER_NAME }}"
+          git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
           git add README.md
           git commit -m "auto: update profile README" || exit 0
           git push
