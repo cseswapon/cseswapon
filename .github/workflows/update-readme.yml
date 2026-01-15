@@ -11,44 +11,20 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v4
 
       - name: Update timestamp
         run: |
-          python <<EOF
-from datetime import datetime
-
-with open("README.md","r") as f:
-    content = f.read()
-
-start = "<!-- LAST_UPDATED:START -->"
-end = "<!-- LAST_UPDATED:END -->"
-
-new_block = f"""{start}
-Last updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}
-{end}"""
-
-before = content.split(start)[0]
-after = content.split(end)[1]
-
-final = before + new_block + after
-
-with open("README.md","w") as f:
-    f.write(final)
-EOF
+          sed -i "/<!-- LAST_UPDATED:START -->/,/<!-- LAST_UPDATED:END -->/c\
+          <!-- LAST_UPDATED:START -->\
+          Last updated: $(date -u +"%Y-%m-%d %H:%M UTC")\
+          <!-- LAST_UPDATED:END -->" README.md
 
       - name: Commit changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
+          git config --global user.name "${{ secrets.GIT_USER_NAME }}"
+          git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
           git add README.md
-
-          if git diff --cached --quiet; then
-            echo "No changes"
-          else
-            git commit -m "auto: update profile README"
-            git push
-          fi
+          git commit -m "auto: update profile README" || exit 0
+          git push
