@@ -18,7 +18,7 @@ jobs:
         run: |
           sed -i "/<!-- LAST_UPDATED:START -->/,/<!-- LAST_UPDATED:END -->/c\
           <!-- LAST_UPDATED:START -->\
-          Last updated: $(date)\
+          Last updated: $(date -u +"%Y-%m-%d %H:%M UTC")\
           <!-- LAST_UPDATED:END -->" README.md
 
       - name: Commit changes
