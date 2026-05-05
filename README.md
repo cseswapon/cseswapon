@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Swapon Saha 
-## 🚀 Full-Stack Software Architect | AI & Backend Specialist
+## 🚀 Full-Stack Software Engineer | AI & Backend Specialist
 
 A highly motivated **Software Engineer** specializing in the **MERN & PERN stack**. I am passionate about building scalable web applications, optimizing backends with **Redis** and **Prisma**, and integrating **AI** to solve complex problems.
 
