@@ -5,11 +5,13 @@ A highly motivated **Software Engineer** specializing in the **MERN & PERN stack
 
 ---
 
-### 🌟 About Me
-- 🔭 **Current Focus:** Building high-concurrency systems and E-commerce platforms.
-- 🏗️ **Architecture:** Deep interest in **System Design**, **Database Optimization**, and **Docker**.
-- 🤖 **AI Implementation:** Working with **RAG**, **OpenAI**, and **Gemini APIs** for intelligent systems.
-- 🌍 **Tech Enthusiast:** Active in open-source and always staying updated with cutting-edge tech.
+## 🧠 About Me
+- 💻 Full-stack developer (MERN & PERN)
+- ⚙️ Strong focus on **Backend Engineering & System Design**
+- 🚀 Currently building **high-concurrency systems & E-commerce platforms**
+- 🤖 Working with **AI (RAG, OpenAI, Gemini APIs)**
+- 🐳 Love **Docker, Redis, Prisma, and performance optimization**
+- 🌱 Always learning & exploring new tech
 
 ---
 
@@ -51,29 +53,11 @@ A highly motivated **Software Engineer** specializing in the **MERN & PERN stack
 
 ### 📊 GitHub Pro-Metrics
 
-<p align="center">
+<div style="display: flex;align-items: center;justify-content: space-between; margin-top: 10px;margin-bottom: 30px;">
   <!-- Main Stats Card -->
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=cseswapon&show_icons=true&theme=dark" alt="Swapon's Stats" />
-</p>
-
-<p align="center">
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cseswapon&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <!-- Top Languages Card -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cseswapon&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-      </td>
-      <td>
-        <!-- GitHub Trophies -->
-        <img src="https://github-profile-trophy.vercel.app/?username=cseswapon&theme=dark&no-bg=true&margin-w=15&column=3" alt="Trophies" height="180" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 <p align="center">
@@ -81,17 +65,10 @@ A highly motivated **Software Engineer** specializing in the **MERN & PERN stack
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cseswapon&theme=dracula&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </p>
 
----
-
 ### 📬 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/swapan-kumar-saha-9936381b4/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://web.facebook.com/cseswapon" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 <img align="center" src="https://komarev.com/ghpvc/?username=cseswapon&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Views" />
-</p>
-
----
-<p align="center">
-  <i>"Learning by Doing" 🚀</i>
 </p>
