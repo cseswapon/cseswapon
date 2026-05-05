@@ -1,84 +1,97 @@
-# 👋 Hi there, I'm Swapon Saha 👋
+# 👋 Hi there, I'm Swapon Saha 
+## 🚀 Full-Stack Software Architect | AI & Backend Specialist
 
-## 🧑‍💻 A Passionate Full-Stack Developer 🚀
-
-Welcome to my GitHub profile! I am a highly motivated and enthusiastic **MERN stack developer** with a strong grasp of **TypeScript**, **Redux**, and backend technologies like **Node.js**, **Express.js**, and **Prisma**. I enjoy creating robust, scalable, and user-friendly web applications. Learning and growing in the field of software development is my ultimate passion. 🌟
- 
----
-
-### 🌟 About Me:
-- 🔭 Currently working on **MERN stack e-commerce projects**.
-- 🌱 Actively learning **Docker**, **TypeScript**, and advanced backend technologies.
-- 🧑‍🏫 Love contributing to **open-source projects** and collaborating with other developers.
-- 🌍 I’m a tech enthusiast who enjoys exploring cutting-edge technologies.
-- 🎯 Goal: To become a well-rounded **Software Architect**.
+A highly motivated **Software Engineer** specializing in the **MERN & PERN stack**. I am passionate about building scalable web applications, optimizing backends with **Redis** and **Prisma**, and integrating **AI** to solve complex problems.
 
 ---
 
-### 📞 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapan-kumar-saha-9936381b4/)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?logo=facebook&logoColor=white)](https://web.facebook.com/cseswapon)
-![Profile Views](https://komarev.com/ghpvc/?username=cseswapon&label=Profile%20Views&color=0e75b6&style=flat)
+### 🌟 About Me
+- 🔭 **Current Focus:** Building high-concurrency systems and E-commerce platforms.
+- 🏗️ **Architecture:** Deep interest in **System Design**, **Database Optimization**, and **Docker**.
+- 🤖 **AI Implementation:** Working with **RAG**, **OpenAI**, and **Gemini APIs** for intelligent systems.
+- 🌍 **Tech Enthusiast:** Active in open-source and always staying updated with cutting-edge tech.
 
 ---
 
-### 🛠️ Languages & Tools:
+### 🛠️ Tech Stack & Tools
 
-#### Frontend:
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" />
+#### 🌐 Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields. ://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+<i>Zustand • Shadcn UI • Radix UI • TanStack Query • TanStack Table • Recharts • Embla Carousel • DnD Kit • Zod • HTML5 • CSS3</i>
+
+#### ⚙️ Backend & Database
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.dot.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+</p>
+<i>REST API • Better Auth • Nodemailer • Cloudinary • Multer • SSLCommerz • node-cron • PHP • MySQL</i>
+
+#### 🤖 AI & Dev Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+</p>
+<i>Huggingface • Chatbot Systems • RAG Implementation • OpenAI Codex • Linux • Docker • Git • Bun</i>
+
+---
+
+### 📊 GitHub Pro-Metrics
+
+<p align="center">
+  <!-- Main Stats Card -->
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=cseswapon&show_icons=true&theme=dark" alt="Swapon's Stats" />
+</p>
+
+<p align="center">
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cseswapon&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <!-- Top Languages Card -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cseswapon&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+      </td>
+      <td>
+        <!-- GitHub Trophies -->
+        <img src="https://github-profile-trophy.vercel.app/?username=cseswapon&theme=dark&no-bg=true&margin-w=15&column=3" alt="Trophies" height="180" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-#### Backend:
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40" />
-</div>
-
-#### Databases:
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
-</div>
-
-#### Programming Languages:
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-</div>
-
-#### Tools:
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
-</div>
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cseswapon&theme=dracula&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</p>
 
 ---
 
-### 📊 GitHub Stats:
+### 📬 Connect With Me
 
-#### Overall Performance:
-![Swapon Saha's GitHub Stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=cseswapon&show_icons=true&theme=dark)
-
-#### Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cseswapon&layout=compact&theme=dark)
-
----
-
-### 🌟 Additional Information:
-- 📝 **Portfolio:** [Check Out My Projects](https://github.com/cseswapon?tab=repositories)
-- 💡 **Fun Fact:** I believe in "Learning by Doing" and always strive to stay updated with the latest tech trends.
-- 🏆 I aim to contribute to open-source projects and help grow the developer community.
+<p align="left">
+<a href="https://www.linkedin.com/in/swapan-kumar-saha-9936381b4/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://web.facebook.com/cseswapon" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<img align="center" src="https://komarev.com/ghpvc/?username=cseswapon&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Views" />
+</p>
 
 ---
-
-### 💬 Let's Collaborate!
-I’m open to collaborating on exciting projects, contributing to open-source, or even just discussing tech and coding! Feel free to reach out to me anytime. Let's build amazing things together! 🚀
+<p align="center">
+  <i>"Learning by Doing" 🚀</i>
+</p>
