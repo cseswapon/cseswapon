@@ -28,7 +28,7 @@ A highly motivated **Software Engineer** specializing in the **MERN & PERN stack
 </p>
 <i>Zustand • Shadcn UI • Radix UI • TanStack Query • TanStack Table • Recharts • Embla Carousel • DnD Kit • Zod • HTML5 • CSS3</i>
 
-#### ⚙️ Backend & Database
+#### ⚙️ Backend & Database 
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.dot.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
