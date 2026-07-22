@@ -1,0 +1,42 @@
+name: Auto DevCard
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate-devcard:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate DevCard SVG
+        run: |
+          cat > devcard.svg << EOF
+          <svg xmlns="http://www.w3.org/2000/svg" width="400" height="250" viewBox="0 0 400 250">
+            <rect width="400" height="250" rx="15" fill="#1a1a2e"/>
+            <text x="200" y="40" text-anchor="middle" fill="#e94560" font-size="22" font-weight="bold" font-family="Arial">⚡ DevCard</text>
+            <text x="200" y="65" text-anchor="middle" fill="#888" font-size="12" font-family="Arial">cseswapon</text>
+
+            <rect x="30" y="85" rx="8" width="160" height="60" fill="#16213e"/>
+            <text x="110" y="110" text-anchor="middle" fill="#fff" font-size="11" font-family="Arial">💻 Full-Stack Developer</text>
+            <text x="110" y="130" text-anchor="middle" fill="#aaa" font-size="10" font-family="Arial">MERN & PERN Stack</text>
+
+            <rect x="210" y="85" rx="8" width="160" height="60" fill="#16213e"/>
+            <text x="290" y="110" text-anchor="middle" fill="#fff" font-size="11" font-family="Arial">🚀 AI & Backend</text>
+            <text x="290" y="130" text-anchor="middle" fill="#aaa" font-size="10" font-family="Arial">RAG • Redis • Prisma</text>
+
+            <rect x="30" y="160" rx="8" width="340" height="40" fill="#0f3460"/>
+            <text x="200" y="185" text-anchor="middle" fill="#00d2ff" font-size="13" font-family="monospace">Last updated: $(date -u '+%Y-%m-%d %H:%M UTC')</text>
+          </svg>
+          EOF
+
+      - name: Auto commit
+        run: |
+          git add devcard.svg
+          git diff --staged --quiet || git commit -m "chore: update devcard ($(date -u '+%Y-%m-%d'))"
+          git push
