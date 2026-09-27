@@ -46,8 +46,9 @@ A highly motivated **Software Engineer** specializing in the **MERN & PERN stack
   <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge&logo=claude&logoColor=orange" />
 </p>
-<i>Huggingface • Chatbot Systems • RAG Implementation • OpenAI Codex • Linux • Docker • Git • Bun</i>
+<i>Huggingface • Chatbot Systems • RAG Implementation • OpenAI Codex • Claude AI • Linux • Docker • Git • Pnpm • Bun</i>
 
 ---
 
